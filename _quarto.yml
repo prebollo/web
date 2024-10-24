@@ -4,10 +4,10 @@ project:
 
 
 website:
-  title: "My website"
-  description: "I am a scientist"
-  site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  title: "Pedro Rebollo"
+  description: "I am a scientist" #la descripcion que aparece cuando googleas
+  site-url: https://pakillo.github.io/academic-website-template-Quarto #poner direccion de mi repo
+  repo-url: https://github.com/Pakillo/academic-website-template-Quarto #poner direccion de mi repo
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
@@ -19,10 +19,10 @@ website:
   # cookie-consent: true
 
 
-  navbar:
-    right:
+  navbar: ###para cambiar la barra de navegacion
+    right: ##alineacion del texto
       - href: index.qmd
-        text: Home
+        text: Home ##Esto es para añadir pestañas en la barra de navegacion
       - Projects.qmd
       - Publications.qmd
       - Blog.qmd

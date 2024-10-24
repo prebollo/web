@@ -1,22 +1,22 @@
 ---
-title: "Finley Malloc"
+title: "Pedro Rebollo"
 about:
-  template: trestles
-  image: avatar.jpg
+  template: trestles   ##esta es la plantilla: https://quarto.org/docs/websites/website-about.html#templates
+  image: PR.jpeg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
+      href: "mailto: pedrorebollo13@gmail.com"
+    # - icon: mastodon
+    #   href: https://joinmastodon.org
+    # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+    #   href: https://bsky.app
     - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
+      href: https://x.com/Rebollito_
     - icon: github
-      href: https://github.com
-    - icon: linkedin
-      href: https://linkedin.com/
+      href: https://github.com/prebollo
+    # - icon: linkedin
+    #   href: https://linkedin.com/
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
       href: https://scholar.google.com
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"

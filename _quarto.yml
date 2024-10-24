@@ -20,7 +20,7 @@ website:
 
 
   navbar: ###para cambiar la barra de navegacion
-    left: ##alineacion del texto
+    right: ##alineacion del texto
       - href: index.qmd
         text: Home ##Esto es para añadir pestañas en la barra de navegacion
       - Projects.qmd

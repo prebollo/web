@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>My website</title>
+<title>Pedro Rebollo</title>
 <link>https://pakillo.github.io/academic-website-template-Quarto/Blog.html</link>
 <atom:link href="https://pakillo.github.io/academic-website-template-Quarto/Blog.xml" rel="self" type="application/rss+xml"/>
 <description>I am a scientist</description>

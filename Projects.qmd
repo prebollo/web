@@ -1,8 +1,8 @@
 ---
 title: "Projects"
 listing:
-  contents: projects
-  type: grid
+  contents: projects ##aqui coge la carpeta projects
+  type: default ##proyectos ordenados en grid
   categories: false
 ---
 

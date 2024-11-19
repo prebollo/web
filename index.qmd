@@ -1,8 +1,8 @@
 ---
 title: "Pedro Rebollo"
 about:
-  template: trestles   ##esta es la plantilla: https://quarto.org/docs/websites/website-about.html#templates
-  image: PR.jpeg
+  template: trestles   ##esta es la plantilla.  https://quarto.org/docs/websites/website-about.html#templates
+  #image: PR.jpeg
   links:
     - icon: envelope
       # text: email

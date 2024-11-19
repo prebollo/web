@@ -54,7 +54,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: superhero  #Pagina web con temas https://bootswatch.com/
     css: styles.css
     toc: false
 

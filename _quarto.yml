@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "Pedro Rebollo"
+  title: "aa"
   description: "I am a scientist" #la descripcion que aparece cuando googleas
   site-url: https://pakillo.github.io/academic-website-template-Quarto #poner direccion de mi repo
   repo-url: https://github.com/Pakillo/academic-website-template-Quarto #poner direccion de mi repo

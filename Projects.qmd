@@ -1,8 +1,8 @@
 ---
 title: "Projects"
 listing:
-  contents: projects ##aqui coge la carpeta projects
-  type: default ##proyectos ordenados en grid
+  contents: projects ##aqui coge la carpeta projects. Dentro tenemos que tener qmd con los proyectos
+  type: default ##proyectos ordenados en grid, hay otras posibilidades
   categories: false
 ---
 

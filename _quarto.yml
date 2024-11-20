@@ -4,10 +4,10 @@ project:
 
 
 website:
-  title: "" ##Titulo de la pagina
+  title: "Pedro Rebollo" ##Titulo de la pagina
   description: "I am a scientist" #la descripcion que aparece cuando googleas
-  site-url:  #poner direccion del repo
-  repo-url:  #poner direccion del repo
+  site-url: https://prebollo.github.io/web #poner direccion del repo
+  repo-url: https://github.com/prebollo/web #poner direccion del repo
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
@@ -20,12 +20,12 @@ website:
 
 
   navbar: ###para cambiar la barra de navegacion
-    left: ##alineacion del texto
+    right: ##donde poner el texto de la barra de navegacion
       - href: index.qmd
-        text: Home ##Esto es para añadir pestañas en la barra de navegacion
+        text: Home ##Añadir pestañas en la barra de navegacion
       - Projects.qmd
       - Publications.qmd
-      - Blog.qmd
+      - Blog.qmd ##Pensar que queremos poner
 
       # - icon: mastodon
       #   href: https://joinmastodon.org
